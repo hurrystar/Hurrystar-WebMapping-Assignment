@@ -1,0 +1,18 @@
+body{
+	background:lightblue;
+	font-family:arial;
+}
+h1,h2{
+color:purple;
+}
+p{
+	color:navy;
+	font-family:verdana;
+	background:darkgrey;
+	padding:10px;
+	font-size:16px;
+}
+a{
+	color:darkblue;
+	font-family:fantasy;
+}
